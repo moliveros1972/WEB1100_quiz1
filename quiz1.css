@@ -1,0 +1,13 @@
+.box{
+    margin: auto;
+    min-width: 74vw;
+    max-width: 74vw;
+    min-height: auto;
+    border: 3px black solid;
+    background-size: cover;
+}
+.opi {
+color:blue;
+}
+
+
